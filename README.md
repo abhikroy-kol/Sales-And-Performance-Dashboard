@@ -8,8 +8,6 @@
 
 This project presents a **Power BI dashboard** built on a structured bookshop dataset, designed to answer critical business questions across revenue, inventory, authorship, and market positioning.
 
-The dashboard consolidates data across sales transactions, book editions, authors, publishers, genres, series, ratings, library checkouts, and awards into a cohesive analytical experience. It equips publishing professionals, buyers, and business analysts with the tools to track KPIs, evaluate content strategy, and identify opportunities for growth.
-
 **Problem it solves:** Independent bookshops and small publishers often lack a unified view of their commercial and content performance. This dashboard bridges that gap by transforming raw transactional data into clear, interactive visualizations — without requiring SQL or data engineering skills to explore.
 
 ---
